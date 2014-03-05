@@ -1,4 +1,4 @@
-REpositorio para o GreloCoin
+Repositorio para o Grelocoin
 ================================
 
 http://www.grelocoin.org
