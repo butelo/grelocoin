@@ -3,7 +3,7 @@ Repositorio para o Grelocoin
 
 http://www.grelocoin.org
 
-Copyright (c) 2009-2013 Grelocoin Developers
+Copyright (c) 2014 desenvolvedores de Grelocoin.
 
 Que é GreloCoin?
 ----------------
